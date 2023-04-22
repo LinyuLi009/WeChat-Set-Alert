@@ -279,33 +279,3 @@ str_Christmas = 小仙女，圣诞节快乐哦！（づ￣3￣）づ╭❤～
 str_birthday = 亲爱的，生日快乐，我已经给你准备好了礼物哦，明天你就能看到啦！(*@ο@*) 哇～
 ```
 
-## 演示图片
-
-<img src="https://raw.githubusercontent.com/shengqiangzhang/examples-of-web-crawlers/master/4.%E6%AF%8F%E5%A4%A9%E4%B8%8D%E5%90%8C%E6%97%B6%E9%97%B4%E6%AE%B5%E9%80%9A%E8%BF%87%E5%BE%AE%E4%BF%A1%E5%8F%91%E6%B6%88%E6%81%AF%E6%8F%90%E9%86%92%E5%A5%B3%E5%8F%8B/example1.png" width = "310"  alt="example1" /><img src="https://raw.githubusercontent.com/shengqiangzhang/examples-of-web-crawlers/master/4.%E6%AF%8F%E5%A4%A9%E4%B8%8D%E5%90%8C%E6%97%B6%E9%97%B4%E6%AE%B5%E9%80%9A%E8%BF%87%E5%BE%AE%E4%BF%A1%E5%8F%91%E6%B6%88%E6%81%AF%E6%8F%90%E9%86%92%E5%A5%B3%E5%8F%8B/example2.png" width = "310"  alt="example2" />
-
-<img src="https://raw.githubusercontent.com/shengqiangzhang/examples-of-web-crawlers/master/4.%E6%AF%8F%E5%A4%A9%E4%B8%8D%E5%90%8C%E6%97%B6%E9%97%B4%E6%AE%B5%E9%80%9A%E8%BF%87%E5%BE%AE%E4%BF%A1%E5%8F%91%E6%B6%88%E6%81%AF%E6%8F%90%E9%86%92%E5%A5%B3%E5%8F%8B/example3.png" width = "620"  alt="example3"/>
-
-<img src="https://raw.githubusercontent.com/shengqiangzhang/examples-of-web-crawlers/master/4.%E6%AF%8F%E5%A4%A9%E4%B8%8D%E5%90%8C%E6%97%B6%E9%97%B4%E6%AE%B5%E9%80%9A%E8%BF%87%E5%BE%AE%E4%BF%A1%E5%8F%91%E6%B6%88%E6%81%AF%E6%8F%90%E9%86%92%E5%A5%B3%E5%8F%8B/example4.png" width = "620"  alt="example4" />
-
-
-
-
-
-
-
-## 完整源代码
-项目源代码在[GitHub仓库][5]
-
-项目持续更新，欢迎您[star本项目][5]
-
-
-
-# License
-[The MIT License (MIT)][6]
-
-
-
-[5]:https://github.com/shengqiangzhang/examples-of-web-crawlers
-[6]:http://opensource.org/licenses/MIT
-[7]:https://raw.githubusercontent.com/shengqiangzhang/examples-of-web-crawlers/master/3.%E6%B7%98%E5%AE%9D%E5%B7%B2%E4%B9%B0%E5%88%B0%E7%9A%84%E5%AE%9D%E8%B4%9D%E6%95%B0%E6%8D%AE%E7%88%AC%E8%99%AB(%E5%B7%B2%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95)/example.gif
-[8]:https://raw.githubusercontent.com/shengqiangzhang/examples-of-web-crawlers/master/1.%E6%B7%98%E5%AE%9D%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95/example.gif
